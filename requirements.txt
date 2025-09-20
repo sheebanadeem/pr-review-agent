@@ -1,0 +1,11 @@
+PyGithub
+gitpython
+requests
+openai         # optional, if using OpenAI
+transformers   # optional, for local models
+flask          # or fastapi
+pytest
+flake8
+bandit
+semgrep        # optional
+radon
